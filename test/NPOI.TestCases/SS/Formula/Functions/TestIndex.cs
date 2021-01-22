@@ -41,7 +41,7 @@ namespace TestCases.SS.Formula.Functions
     public class TestIndex
     {
 
-        private static Index FUNC_INST = new Index();
+        private static NPOI.SS.Formula.Functions.Index FUNC_INST = new NPOI.SS.Formula.Functions.Index();
         private static double[] TEST_VALUES0 = {
 			1, 2,
 			3, 4,
